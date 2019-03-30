@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+encding: utf-8
+plugins: 
+  - jekyll-github-metadata
+github : [metadata]
+repository: ba-chi-0730/ba-chi-0730.github.io
